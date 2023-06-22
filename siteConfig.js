@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://juomedya.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://kidmat-hashmal.co.il", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "juomedya.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "kidmat-hashmal.co.il", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "juomedya.com", // This allows an alternative site description for meta data for pages.
+    "kidmat-hashmal.co.il", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "juomedya.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "kidmat-hashmal.co.il", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "juomedya.com",
+    title: "kidmat-hashmal.co.il",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://juomedya.com/",
+        url: "https://kidmat-hashmal.co.il/",
       },
       {
         label: "יצירת קשר",
-        url: "https://juomedya.com/contact",
+        url: "https://kidmat-hashmal.co.il/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://juomedya.com/",
+        url: "https://kidmat-hashmal.co.il/",
       },
       {
         label: "Sitemap",
-        url: "https://juomedya.com/sitemap.xml",
+        url: "https://kidmat-hashmal.co.il/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://juomedya.com/contact",
+        url: "https://kidmat-hashmal.co.il/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "juomedya.com",
+    title: "kidmat-hashmal.co.il",
     description:
-      "juomedya.com",
+      "kidmat-hashmal.co.il",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "juomedya.com",
+    title: "kidmat-hashmal.co.il",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "juomedya.com",
+  siteTitle: "kidmat-hashmal.co.il",
   siteDescription:
-    "juomedya.com",
+    "kidmat-hashmal.co.il",
   language: "he",
   logoUrl: "",
   iconUrl: "",
